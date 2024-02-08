@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351695294949",
+    "project_id": "groupchat-8740b",
+    "storage_bucket": "groupchat-8740b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351695294949:android:01874a63edf4bf8d085f0c",
+        "android_client_info": {
+          "package_name": "com.adna.groupchat02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351695294949-o3bbtimb3jvu1o9ttkbeu7vi35priqb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2O_iGqSP2D1QsR71iP2vGyBYaj_2FSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351695294949-o3bbtimb3jvu1o9ttkbeu7vi35priqb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
